@@ -60,7 +60,7 @@ const SearchAutoComplete = () => {
   return (
     <div className="main-container">
       {loading ? (
-        <h1>Wait the fuck up!</h1>
+        <h1>Please Wait!</h1>
       ) : (
         <input
           type="text"
