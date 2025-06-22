@@ -1,0 +1,22 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center;
+  justify-content: center; */
+}
+
+.input-search  {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.main-list {
+  font-size: 30px;
+  
+}
+
+.list-suggestion {
+  list-style-type: none;
+  margin-right: 320px;
+  cursor: pointer;
+}
